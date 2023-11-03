@@ -18,7 +18,7 @@ const projectData: IProjectData[] = [
     imgUrl: '/images/projects/controle-de-compra-image.png',
     tag: ['All', 'Web'],
     gitUrl: 'https://github.com/Velofuri/gerenciador-de-compras',
-    previewUrl: 'https://gerenciador-de-compras.vercel.app/',
+    previewUrl: 'https://app.velofuri.tech/',
   },
   {
     id: 2,
