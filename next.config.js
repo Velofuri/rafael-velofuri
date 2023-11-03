@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: '/controledecompras',
-        destination: 'https://gerenciador-de-compras.vercel.app/',
+        destination: 'https://gerenciador-de-compras.vercel.app',
       },
     ]
   },
