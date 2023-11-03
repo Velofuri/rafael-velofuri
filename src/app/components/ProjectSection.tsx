@@ -54,10 +54,10 @@ const projectData: IProjectData[] = [
     title: 'Portfólio atual',
     description:
       'Novo portfólio onde aplico novos conhecimentos e técnicas de desenvolvimento, tem sido meu projeto preferido',
-    imgUrl: '/images/projects/primeiro-portifolio-image.png',
+    imgUrl: '/images/projects/site-rafael-velofuri-image.png',
     tag: ['All', 'Web'],
-    gitUrl: 'https://github.com/Velofuri/portfolio',
-    previewUrl: 'https://velofuri.github.io/portfolio/',
+    gitUrl: 'https://github.com/Velofuri/rafael-velofuri',
+    previewUrl: '/',
   },
 ]
 
