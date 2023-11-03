@@ -1,13 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-  async rewrites() {
-    return [
-      {
-        source: '/controledecompras',
-        destination: 'https://gerenciador-de-compras.vercel.app',
-      },
-    ]
-  },
-}
+const nextConfig = {}
 
 module.exports = nextConfig
