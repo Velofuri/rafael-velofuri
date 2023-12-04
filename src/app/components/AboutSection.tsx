@@ -74,7 +74,7 @@ export default function AboutSection() {
           alt='About-Image'
           width={500}
           height={500}
-          className='rounded-xl'
+          className='hidden md:inline-block rounded-xl'
         />
         <div id='about' className='mt-8 md:mt-0 text-left flex flex-col h-full'>
           <h2 className='text-4xl font-bold text-white mb-4'>Sobre mim</h2>
