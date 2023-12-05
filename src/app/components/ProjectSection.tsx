@@ -21,6 +21,15 @@ const projectData: IProjectData[] = [
     previewUrl: 'https://app.velofuri.tech/',
   },
   {
+    id: 5,
+    title: 'VeloLink',
+    description: 'Um social link (LinkTree) desenvolvido com ReactJs e TailwindCss',
+    imgUrl: '/images/projects/velolink.png',
+    tag: ['All', 'Web'],
+    gitUrl: 'https://github.com/Velofuri/velolink',
+    previewUrl: 'https://link.velofuri.tech',
+  },
+  {
     id: 2,
     title: 'Atualizador de Preços',
     description:
@@ -29,16 +38,6 @@ const projectData: IProjectData[] = [
     tag: ['All', 'Web'],
     gitUrl: 'https://github.com/Velofuri/atualizador-de-preco',
     previewUrl: 'https://github.com/Velofuri/atualizador-de-preco',
-  },
-  {
-    id: 3,
-    title: 'API de consulta e backup',
-    description:
-      'API intermediária, responsável por consultar outra API, tratar e armazenar os dados',
-    imgUrl: '/images/projects/api-consulta-backup-image.png',
-    tag: ['All', 'BackEnd'],
-    gitUrl: 'https://github.com/Velofuri/AtendimentoWhatszap',
-    previewUrl: 'https://github.com/Velofuri/AtendimentoWhatszap',
   },
   {
     id: 4,
@@ -50,14 +49,14 @@ const projectData: IProjectData[] = [
     previewUrl: 'https://velofuri.github.io/portfolio/',
   },
   {
-    id: 5,
-    title: 'Portfólio atual',
+    id: 3,
+    title: 'API de consulta e backup',
     description:
-      'Novo portfólio onde aplico novos conhecimentos e técnicas de desenvolvimento, tem sido meu projeto preferido',
-    imgUrl: '/images/projects/site-rafael-velofuri-image.png',
-    tag: ['All', 'Web'],
-    gitUrl: 'https://github.com/Velofuri/rafael-velofuri',
-    previewUrl: '/',
+      'API intermediária, responsável por consultar outra API, tratar e armazenar os dados',
+    imgUrl: '/images/projects/api-consulta-backup-image.png',
+    tag: ['All', 'BackEnd'],
+    gitUrl: 'https://github.com/Velofuri/AtendimentoWhatszap',
+    previewUrl: 'https://github.com/Velofuri/AtendimentoWhatszap',
   },
 ]
 
