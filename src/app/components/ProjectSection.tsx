@@ -21,7 +21,7 @@ const projectData: IProjectData[] = [
     previewUrl: 'https://app.velofuri.tech/',
   },
   {
-    id: 5,
+    id: 2,
     title: 'VeloLink',
     description: 'Um social link (LinkTree) desenvolvido com ReactJs e TailwindCss',
     imgUrl: '/images/projects/velolink.png',
@@ -30,7 +30,16 @@ const projectData: IProjectData[] = [
     previewUrl: 'https://link.velofuri.tech',
   },
   {
-    id: 2,
+    id: 3,
+    title: 'Velo Shop',
+    description: 'Página de produtos e carrinho de compras',
+    imgUrl: '/images/projects/veloshop.png',
+    tag: ['All', 'Web'],
+    gitUrl: 'https://github.com/Velofuri/veloshop',
+    previewUrl: 'https://veloshop.vercel.app/',
+  },
+  {
+    id: 4,
     title: 'Atualizador de Preços',
     description:
       'Esta aplicação recebe no FrontEnd um arquivo .csv e, no BackEnd, valida as regras de negócio e atualiza a base de dados',
@@ -40,7 +49,7 @@ const projectData: IProjectData[] = [
     previewUrl: 'https://github.com/Velofuri/atualizador-de-preco',
   },
   {
-    id: 4,
+    id: 5,
     title: 'Meu primeiro portfólio',
     description: 'Este projeto foi o início da minha jornada no FrontEnd',
     imgUrl: '/images/projects/primeiro-portifolio-image.png',
@@ -49,7 +58,7 @@ const projectData: IProjectData[] = [
     previewUrl: 'https://velofuri.github.io/portfolio/',
   },
   {
-    id: 3,
+    id: 6,
     title: 'API de consulta e backup',
     description:
       'API intermediária, responsável por consultar outra API, tratar e armazenar os dados',
